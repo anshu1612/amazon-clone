@@ -14,7 +14,7 @@ import { ToastContainer } from "react-toastify";
 import Orders from "./Orders";
 
 const promise = loadStripe(
-  "pk_test_51HPvTBIOljmntfcQC1n0EJpWiklLHfLLbvIRmbtahMdllY6NNLF5vu7hw9O5PYBaTZdmf3ppAtWbhTbCzPZnx0o500tCU9bjNq"
+  "pk_test_51MNGASSDpas9QxEEoDXrRCfPL95Vu7ahtKRfG1ocEFNiEUKNaDrm4TWnIjqcjF6O3axqhbNwUq3UlPXTz4FiaijY00KpjN2t2i"
 );
 
 function App() {
